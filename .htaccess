@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^uye-giris$	/soru-paylasim/index.php?SK=6	[L,NC]
+
+
+
